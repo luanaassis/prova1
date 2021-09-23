@@ -1,2 +1,2 @@
 # prova1
-prova de estruturas condicionais;
+prova de estruturas de repetição;
